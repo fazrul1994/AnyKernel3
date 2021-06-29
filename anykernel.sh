@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=xBoreUp strmbreakr by xyzuan@xyzprjkt
+kernel.string=☣ignominiOus☣
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=lavender
-supported.versions=9-12
+device.name1=poplar
+supported.versions=10-11
 supported.patchlevels=
 '; } # end properties
 
