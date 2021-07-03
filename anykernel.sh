@@ -10,7 +10,7 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=poplar
+device.name1=poplar_dsds
 supported.versions=10-11
 supported.patchlevels=
 '; } # end properties
