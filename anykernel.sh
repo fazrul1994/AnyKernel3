@@ -10,8 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=poplar_dsds
-supported.versions=10-11
+device.name1=poplar
+device.name2=poplar_dsds
+device.name3=G8341
+device.name4=G8342
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
